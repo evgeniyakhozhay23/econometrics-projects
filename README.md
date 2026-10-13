@@ -114,7 +114,7 @@
 
 В качестве зависимой переменной мной выбран показатель экспорта высокотехнологичной продукции. 
 
-**Инструменты:** Python, statsmodels, linearmodels, seaborn, matplotlib, numpy, 
+**Инструменты:** Python, statsmodels, linearmodels, seaborn, matplotlib, numpy
 
 **Содержание исследования:**
 - выбор предикторов и проверка на отсутствие высокой парной корреляции
